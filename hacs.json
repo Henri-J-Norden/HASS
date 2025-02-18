@@ -1,0 +1,7 @@
+{
+    "name": "My Integration",
+    "render_readme": true,
+    "content_in_root": false,
+    "domains": ["sensor"],
+    "homeassistant": "2024.2.0"
+}
